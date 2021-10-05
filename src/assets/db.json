@@ -63,7 +63,7 @@
       "id": 4,
       "listId": 2,
       "text": "Redux (redux-observable, redux-saga)",
-      "completed": true
+      "completed": false
     },
     {
       "listId": 4,
